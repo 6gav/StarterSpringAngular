@@ -1,0 +1,1 @@
+worker: cd angular && npm install && ng build --prod
